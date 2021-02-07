@@ -31,7 +31,7 @@
             <a href="{{ url('login') }}" class="text-sm text-gray-700 underline">
                 Login
             </a>
-            <a href="{{ url('register') }}" class="text-sm ml-4 text-gray-700 underline">
+            <a href="{{ url('register') }}" class="ml-4 text-sm text-gray-700 underline">
                 Register
             </a>
         @endif
